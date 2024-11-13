@@ -1,0 +1,52 @@
+<body bgcolor="orange">
+<div style="text-align:center;margin-top:20px;"> 
+  <img style="height:200px;width:200px;"src="file:///C:/Users/ASUS/OneDrive/Desktop/project1/pokemon.jpg">
+</div> <hr>
+
+<h1 style="font-size: 30px;">
+1.Pikachu12.</h1><br>
+        <img style="margin:10px;height:200px;width:200px;"src="file:///C:/Users/ASUS/OneDrive/Desktop/project1/pikachu.jpg"
+<p style="font-size: 20px;">
+    Hey everyone here i represent u pikachu which is an electric type pokemen.<br> The evolution of pikachu is <b>RAICHU</B>.<hr>
+
+
+<h1 style="font-size: 30px;">
+2.Balbasaur.</h1><br> 
+<img style="margin:10px;height:200px;width:200px;"src="https://i.pinimg.com/736x/3d/f2/db/3df2dbe82ab0a446ef57bada79b5b277.jpg">
+<p style="font-size:20px">
+Hey everyone here i represent u bulbasuar which is an grass type pokemon.<br>The evolution of bulbasaur is <b>ILYSAUR</b> and <b>VENUSAUR</b>.<hr>
+
+
+<h1 style="font-size: 30px;">
+3.Squirtle.</h1><br>
+<image style="margin:10px;height:200px;width:200px;"src="https://img.pokemondb.net/artwork/large/squirtle.jpg">
+<p style="font-size:20px;">
+Hey everyone here i represent u squirtle which is an water type pokemon.<br>The evolution of squirtle is <b>WARTORTLE</b> and <b>BLASTOISE</b>.<hr>
+
+<h1 style="font-size: 30px;">
+4.Pidgey.</h1><br>
+<img style="margin:10px;height:200px;width:200px;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZDl7AfJIO7fi1F16m6JvcZzRQNFmR3yYBg&s.jpg">
+<p style="font-size:20px;">
+Hey everyone here i represent u pidgey which is an normal flying type pokemon.<br> The evolution of pidgey is 
+<b> PIDGEOTTO </b> and <b> PIDGEOT </b>. <hr>
+
+<h1 style="font-size:30px;">
+5.Charmender.</h1><br>
+<image style="margin:10px;height:200px;width:200px;"src="https://www.platypusshoes.co.nz/media/catalog/product/1/0/10010047_multi_01.jpg?auto=webp&quality=85&format=pjpg&width=100%25&fit=cover.jpg">
+<p style="font-size:20px;">
+Hey everyone here i represent u charmender which is an fire type pokemon.<br> The evolution of charmender is <b> CHARMELEON </b> and <b> CHARIZARD</b>.<hr>
+
+<h1 style="font-size:30px;">
+6.mewtwo. </h1><br>
+<image style="margin:10px;height:200px;width:200px;"src="https://mir-s3-cdn-cf.behance.net/projects/404/37c9e9196637475.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.png">
+<p style="font-size:20px;">
+Hey everyone here i represent u mewtwo which is the most powerful pokemon.<br> mewtwo doesn't have any past and future evolution but it's a clone of <b>meow</b>. <hr>
+
+<h1 style="font-size:30px;">
+7.hehehe</h1><br>
+<image style="margin:10px;height:200px;width:200px;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJYHwex7_3nQ6i664vk_VyBRE-Y_di00J_g&s.jpg">
+
+<p style="font-size:20px;">
+,fglkfjgjhglthtkjthhlkjdf;g
+
+
